@@ -1,7 +1,7 @@
-Laravel9React
+#Laravel9React
 Data manipulation application with PHP framework Laravel and React
 
-Get started:
+#Get started:
 clone the code;
 go to the project root;
 install bundles with command: 'composer install';
